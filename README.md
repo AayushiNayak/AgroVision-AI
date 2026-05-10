@@ -83,7 +83,7 @@ Plant diseases cause major agricultural losses worldwide. Early diagnosis is cri
 
 ## Real-Time Disease Prediction
 
-![Android Output](android_output.jpg)
+![Android Output](android_output.jpg.jpeg)
 
 *Figure: Android application showing real-time plant disease prediction with confidence score.*
 
