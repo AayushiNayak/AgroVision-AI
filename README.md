@@ -1,4 +1,4 @@
-# 🌱 AgroVision AI — Plant Disease Detection using Deep Learning
+# 🌱 AgroVision AI
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)](https://tensorflow.org/)
