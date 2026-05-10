@@ -29,7 +29,7 @@ Our model was trained on the PlantVillage dataset using **Focal Loss** to handle
 ## 📂 Repository Structure
 * `Plant_Disease_Detection.ipynb`: The complete training pipeline (Data Augmentation, Training, and Evaluation).
 * `plant_care_offline.tflite`: The final, compressed model ready for Android Studio.
-* `labels.txt`: Mapping file for the 38 disease classes.
+* `labels.txt`: Mapping file for the 35 disease classes.
 
 ---
 
