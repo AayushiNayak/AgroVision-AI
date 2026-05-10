@@ -79,6 +79,16 @@ Plant diseases cause major agricultural losses worldwide. Early diagnosis is cri
 
 ---
 
+# 📱 Android App Output
+
+## Real-Time Disease Prediction
+
+![Android Output](android_output.jpg)
+
+*Figure: Android application showing real-time plant disease prediction with confidence score.*
+
+---
+
 # 📂 Repository Structure
 
 ```bash
@@ -102,7 +112,7 @@ AgroVision-AI/
 # 👩‍💻 Author
 
 ### Aayushi Nayak
-B.Tech CSE Student | AI/ML & Android Enthusiast
+B.Tech CSE Student
 
 
 ---
