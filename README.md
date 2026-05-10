@@ -31,34 +31,6 @@ Plant diseases cause major agricultural losses worldwide. Early diagnosis is cri
 
 ---
 
-# ✨ Key Features
-
-## 🌿 AI-Based Disease Detection
-Detects 35 plant diseases using image classification.
-
-## 📱 Android Application
-Integrated TensorFlow Lite model for mobile deployment.
-
-## ⚡ Offline Functionality
-No internet connection required after installation.
-
-## 🎯 High Accuracy
-Achieved **99.3% validation accuracy** using transfer learning.
-
-## 🚀 Fast Inference
-Prediction time under 100ms on modern smartphones.
-
-## 🧠 Transfer Learning
-Built using EfficientNetV2-S pretrained architecture.
-
-## 📷 Camera & Gallery Support
-Users can:
-- Capture leaf images using camera
-- Upload images from gallery
-- Receive instant predictions
-
----
-
 # 🧠 Deep Learning Model Details
 
 | Component | Details |
