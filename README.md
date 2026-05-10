@@ -1,10 +1,10 @@
-# 🌿 Plant Disease Detection using Deep Learning
+# # AgroVision AI 🌱
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)](https://tensorflow.org/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-99.3%25-green.svg)](#)
 
-An end-to-end Deep Learning solution to identify **38 different plant diseases** across 14 species. This project features a high-accuracy model optimized for **offline mobile deployment**.
+An end-to-end Deep Learning solution to identify **35 different plant diseases** across 7 species. This project features a high-accuracy model optimized for **offline mobile deployment**.
 
 ## 🚀 The Solution
 Agriculture faces massive losses due to undetected diseases. This project provides a **mobile-ready** model that allows farmers to diagnose plant health instantly, even without an internet connection.
@@ -18,7 +18,7 @@ Agriculture faces massive losses due to undetected diseases. This project provid
 ---
 
 ## 📊 Performance Showcase
-Our model was trained on the PlantVillage dataset using **Focal Loss** to handle class imbalance, resulting in exceptional precision across all 38 categories.
+Our model was trained on the PlantVillage dataset using **Focal Loss** to handle class imbalance, resulting in exceptional precision across all 35 categories.
 
 ### **Real-World Test Results**
 ![Success Gallery](Screenshot_2026-03-13_185227.jpg)
