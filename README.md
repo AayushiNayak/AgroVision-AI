@@ -71,7 +71,7 @@ Plant diseases cause major agricultural losses worldwide. Early diagnosis is cri
 
 | Technology | Purpose |
 |---|---|
-| Java/Kotlin | Android Development |
+| Java | Android Development |
 | TensorFlow Lite | On-device AI inference |
 | Android Studio | Development Environment |
 | CameraX / Intent APIs | Image Capture |
@@ -79,17 +79,30 @@ Plant diseases cause major agricultural losses worldwide. Early diagnosis is cri
 
 ---
 
+# 📂 Repository Structure
+
+```bash
+AgroVision-AI/
+│
+├── Android_App/
+│   ├── app/
+│   ├── gradle/
+│   ├── build.gradle
+│   ├── settings.gradle
+│   └── gradlew
+│
+├── Plant_Disease_Detection.ipynb
+├── plant_care_offline.tflite
+├── labels.txt
+├── Screenshot_2026-03-13_185227.jpg
+└── README.md
+```
+---
+
 # 👩‍💻 Author
 
 ### Aayushi Nayak
-B.Tech CSE Student | AI & Android Enthusiast
-
-- Deep Learning
-- Mobile AI Applications
-- TensorFlow Lite
-- Android Development
-
----
+B.Tech CSE Student | AI/ML & Android Enthusiast
 
 
 ---
