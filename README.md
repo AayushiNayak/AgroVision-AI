@@ -101,11 +101,12 @@ AgroVision-AI/
 │   ├── settings.gradle
 │   └── gradlew
 │
-├── Plant_Disease_Detection.ipynb
-├── plant_care_offline.tflite
-├── labels.txt
+├── README.md
+├── Sucess_Gallery.png
 ├── android_output.jpg.jpeg
-└── README.md
+├── labels.txt
+├── Plant_Disease_Detection.ipynb
+└── plant_care_offline.tflite
 ```
 ---
 
