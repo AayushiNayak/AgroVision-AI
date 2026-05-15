@@ -104,7 +104,7 @@ AgroVision-AI/
 ├── Plant_Disease_Detection.ipynb
 ├── plant_care_offline.tflite
 ├── labels.txt
-├── Screenshot_2026-03-13_185227.jpg
+├── android_output.jpg.jpeg
 └── README.md
 ```
 ---
